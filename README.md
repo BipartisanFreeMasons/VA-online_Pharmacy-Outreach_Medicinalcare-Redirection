@@ -1,12 +1,13 @@
 # [VA-online_Pharmacy-Outreach Program]
 ## Online Visitation Services: (NURSE-CRISIS E-PORTAL)
 * MD Chat-Bots : [Vet IM-Portal Google-Application]
-* [PhD_C++]
-### [Portal-Building with the VA Community Directly]
+* [PhD_C++] : Training of prior experienced Vets for each specific vehicle-responder's skillset.
 * [MVAC++16] --- (N.P.O.S.V.A.M.D.) --- [???]
 * [MVAC++24] --- (Pharmacy Medi-Vec Vet-Van Transportation Unit)
 
-## [Vehicle Tier-Budgeting Request-Pull]
+# [Portal-Building with the VA Community Directly]
+
+### [Vehicle Tier-Budgeting Request-Pull]
 *  [3-Tier Budget Multi-Layer (TASKFORCE-ORDERING) [???]
 
 ### Medicinal-Care Redirection of Acts for Health-Care Reform :
